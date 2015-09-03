@@ -15,8 +15,8 @@ namespace SharePointOnlineDemo
     {
         private static void Main(string[] args)
         {
-            //ConnectToDemoSite();
-            //UploadDemo();
+            ConnectToDemoSite();
+            UploadDemo();
             Console.ReadLine();
         }
 
